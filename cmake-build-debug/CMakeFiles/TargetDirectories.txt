@@ -1,0 +1,3 @@
+/Users/zombi170/Documents/Munka/BME/Tantárgyak/2. félév/Prog_2/Programok/Laborok/4./Genetika/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zombi170/Documents/Munka/BME/Tantárgyak/2. félév/Prog_2/Programok/Laborok/4./Genetika/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zombi170/Documents/Munka/BME/Tantárgyak/2. félév/Prog_2/Programok/Laborok/4./Genetika/cmake-build-debug/CMakeFiles/Genetika.dir
